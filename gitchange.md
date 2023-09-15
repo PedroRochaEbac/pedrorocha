@@ -9,4 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2012-09-15
 
 ### Added
--added gitchange.md
+- Added changelog.md
